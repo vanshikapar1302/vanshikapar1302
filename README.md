@@ -9,8 +9,8 @@ and build impactful projects 🚀
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-parjapati-430453325/)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/vanshika_.1302/) 
+
 
 
 ### 💻 Tech Stack:
