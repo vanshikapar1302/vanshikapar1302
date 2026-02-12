@@ -24,10 +24,11 @@ and build impactful projects 🚀
 ![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black)
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vanshikapar1302&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vanshikapar1302&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikapar1302&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **Shruti843989/Shruti843989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
