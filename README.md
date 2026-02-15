@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I am Vanshika  parjapatu
+## Hi there 👋 I am Vanshika 
 
 💻 Passionate Software Developer | DSA Enthusiast | AI/ML Learner  
 🚀 Focused on building strong problem-solving skills using Java & Python  
